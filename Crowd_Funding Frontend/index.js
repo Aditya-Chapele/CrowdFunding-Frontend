@@ -20,7 +20,7 @@ const forms = document.querySelectorAll(".form");
 
 // Data
 // let amountBacked = 89914;
-let amountBackedTotal = 89914;
+let amountBackedTotal = 894;
 let totalBackers = 2069;
 let bambooCapacity = 101;
 let blackCapacity = 64;
