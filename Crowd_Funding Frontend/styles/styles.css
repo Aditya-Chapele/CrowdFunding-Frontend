@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap");
 :root {
-  --moderate-cyan: hsl(299, 50%, 47%);
-  --dark-cyan: hsl(289, 72%, 77%);
+  --moderate-cyan: hsl(210, 78%, 46%); 
+  --dark-cyan: hsl(210, 63%, 68%);
   --black: hsl(0, 0%, 0%);
   --dark-gray: hsl(0, 0%, 48%);
   --white: rgb(255, 255, 255);
@@ -12,7 +12,7 @@
 }
 
 b{
-color:hsl(289, 85%, 31%);
+color:hsl(210, 69%, 24%);
 font-style:italic;
 }
 html {
@@ -576,7 +576,7 @@ h1 {
 }
 
 .options{
-  background-color:hsl(289, 72%, 77%);
+  background-color:hsl(210, 78%, 46%);
   border-radius: 20px;
   outline: none;
   padding: 0.4rem 0.2rem;
