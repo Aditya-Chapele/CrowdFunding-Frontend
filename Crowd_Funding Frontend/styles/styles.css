@@ -44,7 +44,8 @@ h4 {
   line-height: 1.7em;
 }
 header {
-  background-image: url("../images/Flag-Desktop(1).png");
+  background-image: url("../images/Flag-Desktop.webp");
+
   background-repeat: no-repeat;
   background-size: cover;
   height: 25rem;
